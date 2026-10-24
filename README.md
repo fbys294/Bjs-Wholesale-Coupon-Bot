@@ -1,4 +1,4 @@
-# BJ's Wholesale Coupon Bot
+# BJ's Wholesale Coupon Automation (Not a Traditional Bot)
 
 A lightweight browser script to automatically clip coupons from BJ's Wholesale Club while you're on the coupons page.
 
